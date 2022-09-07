@@ -1,0 +1,20 @@
+body {
+  background-color: #191919;;
+}
+
+h3 {
+  color: aliceblue;  
+}
+
+#app {
+  font-family: 'Avenir', Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: black;
+  margin-top: 60px;
+}
+
+.link .link:hover, .link:visited, .link:active {
+  color: #4FC08D;
+}
